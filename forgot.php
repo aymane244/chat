@@ -16,7 +16,7 @@
     require("navbar2.php");
     require("style.php");
 ?>
-<div class="div-background px-3 w-50 mx-auto mt-5">
+<div class="div-background-password px-3 w-50 mx-auto mt-5">
     <form class="pt-lg-5 py-md-4" action="" method="POST">
         <div id="password">
             <div>

@@ -21,7 +21,7 @@
             background-size: 100%;
             background-repeat: no-repeat;
         }
-        .div-background{
+        .div-background-password{
             background-color: rgba(72, 176, 247, 0.4);
             background-size: 100%;
             background-repeat: no-repeat;
